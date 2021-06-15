@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Det er overskyet ute
+* Det synes jeg er fint
+  * Men sol er finere
